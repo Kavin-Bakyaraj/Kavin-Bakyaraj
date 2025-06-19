@@ -20,15 +20,15 @@
   </p>
 </div>
 
-<!--<p align="center">
+<p align="center">
     <img src="https://api.githubtrends.io/user/svg/Kavin-Bakyaraj/langs?time_range=one_year&use_percent=True&include_private=True&loc_metric=changed&theme=dark">
   </p>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Kavin-Bakyaraj&theme=dark" alt="GitHub Streak" /></a>
 <p align="center">
   
 <img src="https://profile-counter.glitch.me/Kavin-Bakyaraj/count.svg" alt="Visitor Count" />
-</p>-->
-<!-- Add badges in an organized, centered flexbox container -->
+</p>
+
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Kavin-Bakyaraj&style=flat&color=3498DB"/>
   <img alt="Followers" src="https://img.shields.io/github/followers/Kavin-Bakyaraj?label=Followers&style=flat&color=3498DB"/>
