@@ -11,19 +11,8 @@
 
 
 
-## 📈 My GitHub stats
 
-<div class="badges-githubstats">
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Kavin-Bakyaraj&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="aaronedev's Stats" height="165">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kavin-Bakyaraj&theme=tokyonight&hide_border=true" alt="krish's Streak" height="165">
-  </p>
-</div>
 
-<p align="center">
-    <img src="https://api.githubtrends.io/user/svg/Kavin-Bakyaraj/langs?time_range=one_year&use_percent=True&include_private=True&loc_metric=changed&theme=dark">
-  </p>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Kavin-Bakyaraj&theme=dark" alt="GitHub Streak" /></a>
 <p align="center">
   
 <img src="https://profile-counter.glitch.me/Kavin-Bakyaraj/count.svg" alt="Visitor Count" />
