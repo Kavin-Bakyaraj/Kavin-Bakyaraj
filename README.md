@@ -23,16 +23,21 @@ AI and automation: n8n, LangChain, LangGraph, OpenAI, Gemini, ChromaDB
 
 More details: [kavinbakyaraj.tech](https://www.kavinbakyaraj.tech)
 
+## GitHub Stats
+
+<p>
+  <img src="https://github-stats-extended.vercel.app/api?username=Kavin-Bakyaraj&show_icons=true&hide_border=true&theme=default" alt="GitHub stats" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Kavin-Bakyaraj&layout=compact&hide_border=true&theme=default" alt="Top languages" height="165" />
+</p>
+
+<img src="https://streak-stats.demolab.com/?user=Kavin-Bakyaraj&hide_border=true&theme=default" alt="GitHub streak" />
+
 ## Certifications
 
 - Databricks Certified Generative AI Engineer Associate
 - Microsoft Certified: Azure AI Fundamentals
 - Salesforce Agentforce Specialist
 - Databricks Accredited Generative AI Fundamentals
-
-## GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kavin-Bakyaraj&show_icons=true&theme=default&hide_border=true)
 
 ## Education
 
